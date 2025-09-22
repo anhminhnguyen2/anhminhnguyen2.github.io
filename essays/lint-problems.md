@@ -31,5 +31,5 @@ I believe that coding standards is extremly important, especially during a colla
 
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/brain.jpeg" class="img-thumbnail" >
+  <img width="500px" src="../img/lint-roller.jpeg" class="img-thumbnail" >
 </div>
