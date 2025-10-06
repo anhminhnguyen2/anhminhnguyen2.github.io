@@ -40,12 +40,12 @@ There are many other sub-components to Navbar, such as .navbar-brand (for your c
 
 ## Issue(for me)
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/book-magic-spells-witchcraft_105738-781.jpg" class="img-thumbnail" >
-</div>
-
 When I first attempt E34: BrowserHistory with Bootstrap 5 and looked at the solution video, I felt really lost because it seems like all the shorthand utility classes for spacing such as pt-5 or mb-3 are just commands that are made up on the spot to be used. After attempting and closely inspecting the website from Live Preview mode, I recognized their usage and wonder if there are other different variants of these “shortcuts” that can get used to more. [Bootstrap Library](https://getbootstrap.com/) provides all the utilities that users can choose from. The amount of built-in shortcuts was overwhelming. Due to the large amount of resources Bootstrap offers, software developers first need to know and understand what features are offered and how to use them, and I believe that is why the learning curve for UI Frameworks can be compared to a new coding language.
 
 ## Conclusion
 
 While UI Frameworks such as Bootstrap can feel complicated and frustrating when starting to learn, they provide convenience, consistency, and maintainability for programs. For a professional developer, taking time and effort to be familiar with the resources from these frameworks is worth it, since the knowledge enables them to build more robust and creative websites that are visually appealing to users. Even though using raw HTML and CSS can offer developers more control, tools like Bootstrap offer great creativity and speed for modern web development. Just like reading and learning a spell book, even though the contents make no sense at first, taking time to learn and understand can create magical results in the long run.
+
+<div class="text-center p-4">
+  <img width="350px" src="../img/book-magic-spells-witchcraft_105738-781.jpg" class="img-thumbnail" >
+</div>
