@@ -36,15 +36,15 @@ navbar-nav d-flex flex-row
 - d-flex: turns items into flex containers. (can also be written as display: flex; in CSS)
 - flex-row: adjusts the items in the list to be laid out horizontally next to each other. (can also be written as flex-direction: row;  in CSS)
 
-There are many other sub-components to Navbar, such as .navbar-brand (for your company, product, or project name), that developers can choose from the library(https://getbootstrap.com/). For me, to visibly see what styles the navigation bar will have when it is created/declared in the same HTML file really helps save time when debugging, providing consistency and clearance throughout the program.
+There are many other sub-components to Navbar, such as .navbar-brand (for your company, product, or project name), that developers can choose from the [library](https://getbootstrap.com/). For me, to visibly see what styles the navigation bar will have when it is created/declared in the same HTML file really helps save time when debugging, providing consistency and clearance throughout the program.
 
 ## Issue(for me)
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/brain.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/8901794-vector-open-book-with-flying-stars-magic-reading-knowledge-fairy-tale.html" class="img-thumbnail" >
 </div>
 
-When I first attempt E34: BrowserHistory with Bootstrap 5 and looked at the solution video, I felt really lost because it seems like all the shorthand utility classes for spacing such as pt-5 or mb-3 are just commands that are made up on the spot to be used. After attempting and closely inspecting the website from Live Preview mode, I recognized their usage and wonder if there are other different variants of these “shortcuts” that can get used to more. Bootstrap Library(https://getbootstrap.com/) provides all the utilities that users can choose from. The amount of built-in shortcuts was overwhelming. Due to the large amount of resources Bootstrap offers, software developers first need to know and understand what features are offered and how to use them, and I believe that is why the learning curve for UI Frameworks can be compared to a new coding language.
+When I first attempt E34: BrowserHistory with Bootstrap 5 and looked at the solution video, I felt really lost because it seems like all the shorthand utility classes for spacing such as pt-5 or mb-3 are just commands that are made up on the spot to be used. After attempting and closely inspecting the website from Live Preview mode, I recognized their usage and wonder if there are other different variants of these “shortcuts” that can get used to more. [Bootstrap Library](https://getbootstrap.com/) provides all the utilities that users can choose from. The amount of built-in shortcuts was overwhelming. Due to the large amount of resources Bootstrap offers, software developers first need to know and understand what features are offered and how to use them, and I believe that is why the learning curve for UI Frameworks can be compared to a new coding language.
 
 ## Conclusion
 
