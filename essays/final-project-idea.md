@@ -10,7 +10,7 @@ labels:
 
 Group member: Anh Minh Nguyen, Kyla Kanemoto, Kincade Morimoto
 
-## Project: UH Class Planner
+## Project: ManoaMap+
 ## Overview
 The problem: Navigating the UHM campus can be challenging for everyone, including students, faculty, and visitors. When there are sudden problems, such as a full parking lot, blocked road, or amenities (broken elevator, toilet, on-site construction, etc), students are usually informed by their friends or scattered departmental announcements, making it difficult to plan their route. This lack of real-time announcements can lead to frustration and lost time while navigating through the campus.
 
