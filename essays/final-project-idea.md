@@ -47,7 +47,8 @@ Live Map Page – Main interactive map with filter options.
 New users need to sign up with either personal or school email address.
 A school email address is needed to sign up to be a “reporter”.
 
-New user goes to landing page, logs in, user home page appears, sets up profile
+New user goes to landing page, logs in, user home page appears, sets up profile.
+
 Admin user goes to landing page, logs in, user home page appears, can edit the web app.
 
 User goes to landing page, logs in, user home page appears
